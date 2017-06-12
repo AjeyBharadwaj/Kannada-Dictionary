@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>A.jpg</file>
+        <file>All.txt</file>
+        <file>Ganesh.jpeg</file>
+        <file>UdayaShankar.jpeg</file>
+        <file>RajKumar.jpeg</file>
+    </qresource>
+</RCC>
